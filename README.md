@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/JornadaGameDev">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JornadaGameDev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JornadaGameDev&layout=compact&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JornadaGameDev&layout=compact&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
